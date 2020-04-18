@@ -23,4 +23,4 @@ You can download and install these libraries from:
 Please note that the adapted python version is 3.6.
 
 ### Contact Information
-QQ: 277195007, WeChat: ustc_xrd, E-mail: xrd@ustc.edu
+QQ: 277195007, WeChat: ustc_xrd, E-mail: github@universalexchange.com
